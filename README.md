@@ -7,14 +7,14 @@ This is a java game where you guess the words, you are given 7 trials. You shoul
 # Installation
 To install it on your machine you need to initiate 
 
-''' gradle build '''
+ gradle build 
 
 from your terminal.
 
 # Contribution
 You can clone my repo from the link  
 
-https://github.com/cliffgor/Hangman- automatic!
+https://github.com/cliffgor/Hangman-
 
 
 # License
